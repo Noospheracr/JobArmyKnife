@@ -2,7 +2,7 @@
 A set of AI-based tools (mainly interacting with ChatGPT-4) which will help you polish up your resume and cover letter when in the process of looking for a job. 
 
 ~~ MOTIVATION ~~
-* I created these tools while taking a Prompting for AI Ops certification program [https://theaiexchange.com/prompting-for-ai-ops] from The AI Exchange.
+* I created these tools while taking a Prompting for AI Ops certification program from The AI Exchange [https://courses.theaiexchange.com/courses/prompting-for-ai-ops-bootcamp?ref=afe18c].
 * I wanted to apply my learnings on something that could help me at least find a job. 
 * I hope these tools contribute to your landing a job soon as well! 
 
