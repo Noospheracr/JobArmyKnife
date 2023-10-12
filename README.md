@@ -1,18 +1,20 @@
-# JobArmyKnife
-A set of AI-based tools (mainly interacting with ChatGPT-4) which will help you polish up your resume and cover letter when in the process of looking for a job. 
+*** JOBARMYKNIFE ***
+#JobArmyKnife offers a suite of AI-driven tools, primarily leveraging ChatGPT-4, designed to refine your resume and cover letter in your job search journey.
 
-~~ MOTIVATION ~~
-* I created these tools while taking a Prompting for AI Ops certification program from The AI Exchange [https://courses.theaiexchange.com/courses/prompting-for-ai-ops-bootcamp?ref=afe18c].
-* I wanted to apply my learnings on something that could help me at least find a job. 
-* I hope these tools contribute to your landing a job soon as well! 
+# Motivation
+* Created as part of the "Prompting for AI Ops" certification program from The AI Exchange [https://courses.theaiexchange.com/courses/prompting-for-ai-ops-bootcamp?ref=afe18c].
+* Designed to simplify the often complex and rule-driven task of crafting impactful resumes and cover letters.
+* Developed by summarizing insights from LinkedIn articles and interactive sessions with ChatGPT.
+* Aims to ease your job search without costing you time or money.
 
-~~ GOAL ~~
-* The free tools you find here are meant to optimize your resume or cover letter, not to overtake the task of creating these key "Army Knifes" in your job searching process.  
+# Goal
+The free tools available here aim to enhance, not replace, the core elements of your job search toolkit—your resume and cover letter.
 
-~~ ASSUMPTIONS BEHIND THESE TOOLS ~~                                                                                 
-1. Everyone has experience doing something, the problem is that not everyone knows how to express that correctly on their resume or cover letter.
-2. Hence, these tools will always try to make the most out of whatever you have achieved in your lifetime so far.
-   
-~~ INSTRUCTIONS BEFORE USING THESE TOOLS ~~
-A. Copy/paste your resume in a TXT document, and clean and organize it using a standarized markdown (here's a great cheatsheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-B. When using the "Cover Letter Draft Generator", do the same for the description of the job you are applying to. 
+# Assumptions
+* Everyone has valuable experiences; the challenge is articulating them effectively in your resume and cover letter.
+* These tools are designed to maximize the impact of your existing achievements.
+* Detailed instructions are included to ensure that ChatGPT's outputs are accurate and relevant. Please ensure your initial resume is as comprehensive as possible.
+
+# Instructions for Use
+* Prepare your resume in a text document and format it using standardized markdown. Here's a helpful Markdown Cheatsheet [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+* For the "Cover Letter Draft Generator," follow the same procedure for the job description you're targeting.
