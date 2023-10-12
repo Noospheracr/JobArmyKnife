@@ -18,3 +18,9 @@ The free tools available here aim to enhance, not replace, the core elements of 
 ## Instructions for Use
 * Prepare your resume in a text document and format it using standardized markdown. Here's a helpful Markdown Cheatsheet [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 * For the "Cover Letter Draft Generator," follow the same procedure for the job description you're targeting.
+* Head over to OpenAI Playground [https://platform.openai.com/playground]. If you have not done so before, open an account and that will include free credits for you to use the Playground.
+* Once at the Playground, click on VIEW CODE on the top right section of your screen.
+* Copy/paste the prompt instructions on the #JobArmyKnife tool of your choice, and follow the instructions.
+
+## Support
+* Please feel free to contact me if you have any questions or suggestions! 
