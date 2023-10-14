@@ -1,8 +1,9 @@
 >>>> TOOL 2: COVER LETTER DRAFT GENERATOR <<<<
 
 1. IMPORTANT NOTES: 
-- To execute this prompt successfully in a single attempt, the GPT-4 LLM Model is required.
-- This tool aims to closely align your qualifications and the job requirements.
+- To execute this prompt successfully in a single attempt, it is best advised to use the GPT-4 Model (select on the top right side of Playground).
+- When inputing your background information, WAIT 1 minute before submitting each step. This will avoid a Maximum Token Limit error. 
+- This tool aims to closely align your qualifications and the job requirements, and does a beautiful job at it.
 - Nevertheless, thoroughly review and edit the generated DRAFT to ensure it accurately represents the qualities and skills you can offer.
 - Best of luck using this tool!
 
@@ -13,7 +14,7 @@
 * frequency_penalty=0
 * presence_penalty=0
 
-3. Copy the following prompt (enclosed between the long << and >>) and paste it into the Playground's SYSTEM window (located on your left):
+3. Copy the following prompt (enclosed between the long << and >>) and paste it into the Playground's SYSTEM window (located on the left side of Playground):
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 You are an expert in professional resume editing. Your task is to generate a Cover Letter Draft for me.
@@ -67,4 +68,4 @@ Once you have the background information, generate a Cover Letter Draft that ali
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-4. Click SUBMIT to initiate the System Prompt. Follow the ensuing instructions by clicking ADD MESSAGE.
+4. Click the green "SUBMIT" button to initiate the System Prompt. Follow the ensuing instructions by clicking ADD MESSAGE (located mid-screen on Playground). .
