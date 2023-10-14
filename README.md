@@ -21,8 +21,8 @@ The free tools available here aim to enhance, not replace, the core elements of 
 * Head over to [OpenAI Playground](https://platform.openai.com/playground). If you have not done so before, open an account and that will include free credits for you to use the Playground.
 * Once at the Playground, click on VIEW CODE on the top right section of your screen.
 * Open any of the tools below, and copy/paste the prompt instructions into the Playground's VIEW CODE window:
-* * [Tool 1: Job Achivement Descriptions Optimizer](https://github.com/Noospheracr/JobArmyKnife/blob/main/Tool-1_Job-Achievement-Optimizer)
-* * [Tool 2: Cover Letter DRAFT Generator](https://github.com/Noospheracr/JobArmyKnife/blob/main/Tool-2_Cover-Letter-DRAFT-Generator) 
+* * [Tool 1: Job Achivement Descriptions Optimizer](https://github.com/Noospheracr/JobArmyKnife/blob/main/TOOL%201:%20JOB%20DESCRIPTION%20ITEM%20OPTIMIZER)
+* * [Tool 2: Cover Letter DRAFT Generator](https://github.com/Noospheracr/JobArmyKnife/blob/main/TOOL%202:%20COVER%20LETTER%20DRAFT%20GENERATOR) 
 * Hit SUBMIT, and follow the instructions!
 
 ## Support
