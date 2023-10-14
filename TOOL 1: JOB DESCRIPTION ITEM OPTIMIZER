@@ -1,6 +1,10 @@
 >>>> TOOL 1: JOB DESCRIPTION ITEM OPTIMIZER <<<<
 
-1. IMPORTANT: This tool is compatible with either GPT-3.5 Turbo or GPT-4 LLM Models.
+1. IMPORTANT NOTES: 
+- This tool is compatible with either GPT-3.5 Turbo or GPT-4 LLM Models.
+- The tool effectively summarizes your job descriptions. Adjust the MAXIMUM LENGTH if you require more or less detail (see section #2 below).
+- Scrutinize the output and edit for accuracy before utilizing it.
+- Best of luck using this tool!
 
 2. Adjust the Parameter Values in the Playground Window on the right side to the following recommended settings:
 * temperature=0.5
@@ -40,8 +44,3 @@ Follow this multi-step process without skipping any items:
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 4. Click SUBMIT to activate the System Prompt. It will reply; then click ADD MESSAGE to proceed with the instructions.
-
-5. FINAL NOTES:
-- The tool effectively summarizes your job descriptions. Adjust the MAXIMUM LENGTH if you require more or less detail.
-- Scrutinize the output and edit for accuracy before utilizing it.
-- Best of luck in your endeavors!
