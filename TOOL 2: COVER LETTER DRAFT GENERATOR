@@ -4,15 +4,16 @@
 - To execute this prompt successfully in a single attempt, it is best advised to use the GPT-4 Model (select on the top right side of Playground).
 - When inputing your background information, WAIT 1 minute before submitting each step. This will avoid a Maximum Token Limit error. 
 - This tool aims to closely align your qualifications and the job requirements, and does a beautiful job at it.
-- Nevertheless, thoroughly review and edit the generated DRAFT to ensure it accurately represents the qualities and skills you can offer.
+- Nevertheless, do request ChatGPT to reprocess your output and point out what you would like modified until you are happy with the result.
+- Scrutinize the output and edit for accuracy before utilizing it.
 - Best of luck using this tool!
 
-2. Configure the Parameter Values in the Playground Window on the right to the following recommended settings:
-* temperature=1
-* max_tokens=1450
-* top_p=1
-* frequency_penalty=0
-* presence_penalty=0
+2. Adjust the Parameter Values in the Playground Window on the right side to the following recommended settings:
+* temperature=1.0 [Higher value, more randomness added to your output (more creative).]
+* max_length=1450 [How flexible you wish the model to be in generating content: Higher value, more verbose.]
+* top_p=1 [Lower value, restricts the model's choices considered in output]
+* frequency_penalty=0 [Higher value will discourage the model to use of frequent words.]
+* presence_penalty=0 [Higher value encourages the model to introduce new concepts and ideas.]
 
 3. Copy the following prompt (enclosed between the long << and >>) and paste it into the Playground's SYSTEM window (located on the left side of Playground):
 
