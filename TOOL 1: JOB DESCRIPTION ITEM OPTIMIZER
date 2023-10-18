@@ -3,15 +3,16 @@
 1. IMPORTANT NOTES: 
 - This tool is compatible with either GPT-3.5 Turbo or GPT-4 LLM Models.
 - The tool effectively summarizes your job descriptions. Adjust the MAXIMUM LENGTH if you require more or less detail (see section #2 below).
+- Do request ChatGPT to reprocess your output and point out what you would like modified until you are happy with the result.
 - Scrutinize the output and edit for accuracy before utilizing it.
 - Best of luck using this tool!
 
 2. Adjust the Parameter Values in the Playground Window on the right side to the following recommended settings:
-* temperature=0.5
-* max_length=3600
-* top_p=1
-* frequency_penalty=0.6
-* presence_penalty=0.6
+* temperature=0.5 [Higher value, more randomness added to your output (more creative).]
+* max_length=3600 [How flexible you wish the model to be in generating content: Higher value, more verbose.]
+* top_p=1 [Lower value, restricts the model's choices considered in output]
+* frequency_penalty=0.6 [Higher value will discourage the model to use of frequent words.]
+* presence_penalty=0.6 [Higher value encourages the model to introduce new concepts and ideas.]
 
 3. Copy the prompt below (enclosed between the long << and >>), and paste it into the Playground's SYSTEM window (located on your left):
 
